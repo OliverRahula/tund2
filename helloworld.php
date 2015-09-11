@@ -14,3 +14,27 @@ O
 					
 					
 ?>
+
+<br>
+
+<?php
+
+
+$age = 5;
+
+
+
+// kui on väiksem kui 18, siis alaealine, kui suurem kui 18, siis täisealine
+if(age < 18){
+	//tõene
+	echo "alaealine";
+	
+}else[
+	//väär
+	echo "täisealine";
+
+
+]
+
+
+?>
