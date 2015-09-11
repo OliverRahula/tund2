@@ -20,7 +20,7 @@ O
 <?php
 
 
-$age = 5;
+$age = 3;
 
 
 
@@ -38,3 +38,43 @@ if(age < 18){
 
 
 ?>
+
+<br>
+
+<?php
+
+
+//nii mitu korda trüki välja "palju", kui palju on vanust
+
+for($i = 0; $i < $age; $i = $i + 1){
+	
+	//see mida korratakse
+	echo "palju ";
+	
+}
+
+echo "õnne"
+
+
+?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
