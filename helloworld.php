@@ -58,9 +58,16 @@ echo "õnne"
 
 ?>
 
+<?php
+
+
+// kuupäev kujul: Friday, 11.09.2015
+
+echo(date(l))." ".$today = date("m.d.y")
 
 
 
+?>
 
 
 
